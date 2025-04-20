@@ -68,10 +68,10 @@
 %  disp (a)
 
 %break
-for i = 1:10
-    if i == 5
-        break
-    else
-        disp(i);
-    end
-end   
+% for i = 1:10
+%     if i == 5
+%         break
+%     else
+%         disp(i);
+%     end
+% end   
